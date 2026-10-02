@@ -3,7 +3,7 @@
 Sophomore at Evergreen Valley High School in the Bay Area. I build web apps and robots.
 
 **Recent:**
-- [GitGrade](https://github.com/ronakrupani/gitgrade) - see your GitHub the way a recruiter does: grades every public repo against 13 hygiene rules and ranks them worst first with the fix
+- [GitGrade](https://github.com/ronakrupani/gitgrade) - see your GitHub the way a recruiter does: grades every public repo against 13 rules and ranks them worst first with the fix
 - [PyQuest](https://github.com/ronakrupani/py-quest) - learn Python in the browser, real CPython via WebAssembly, no backend
 - [Blind Spot](https://github.com/CyberBrainiac1/blindspot) - cyclist safety app: live GPS/IMU, BLE to a Raspberry Pi, fall detection SOS
 - [Cats vs Dogs CNN](https://github.com/ronakrupani/cats-vs-dogs-cnn) - a convolutional net built from scratch in PyTorch
